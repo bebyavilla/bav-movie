@@ -4,7 +4,8 @@
 
 Progressive web app featuring movies and tv shows from [The Movie Database (TMDb)](https://developers.themoviedb.org/3) API. Built using Nuxt.js.
 
-![image](https://user-images.githubusercontent.com/97434486/180606571-42c7f117-edfe-4c9a-83ab-a1dc2f3916b0.png)
+![image](https://user-images.githubusercontent.com/97434486/180606571-42c7f117-edfe-4c9a-83ab-a1dc2f3916b0.png)<br>
+![image](https://user-images.githubusercontent.com/97434486/180607408-6f03622d-bdd7-4eaf-8c22-fd0da6108309.png)
 
 ## Live Demo
 Live demo hosted on Netlify<br>
