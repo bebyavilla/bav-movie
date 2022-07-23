@@ -1,4 +1,20 @@
-# bav-movie
+# BAV Movie
+
+**Alterra Academy Mini Project**
+
+Progressive web app featuring movies and tv shows from [The Movie Database (TMDb)](https://developers.themoviedb.org/3) API. Built using Nuxt.js.
+
+![image](https://user-images.githubusercontent.com/97434486/180606571-42c7f117-edfe-4c9a-83ab-a1dc2f3916b0.png)
+
+## Live Demo
+Live demo hosted on Netlify<br>
+[BAV Movie](https://vue-miniproject-beby.netlify.app/)
+
+## Tech/Framework Used
+* Progressive Web App
+* Nuxt.js
+* API TMDb
+* Axios
 
 ## Build Setup
 
