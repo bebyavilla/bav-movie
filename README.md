@@ -1,4 +1,4 @@
-# BAV Movie
+# :movie_camera: BAV Movie :movie_camera:
 
 **Alterra Academy Mini Project**
 
